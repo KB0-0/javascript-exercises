@@ -46,11 +46,7 @@ const sumAll = function(start_int, end_int) {
 
 
 
-
-
-
-
 };
 
-// Do not edit below this line
-module.exports = sumAll;
+x = sumAll(2, 6);
+console.log(x);
